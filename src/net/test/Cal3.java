@@ -12,6 +12,7 @@ public class Cal3 {
 	 * @return boolean
 	 * @throws Exception
 	 */
+	private String pName = "susan";
 
 	private static int result; // 静态变量，用于存储运行结果
     public void add(int n){
